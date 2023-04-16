@@ -7,7 +7,7 @@
 ### RGBT Segmentation
 
 ### Datasets
-|제목|내용|설명|
+|Publication|Title|Link|
 |---|---|---|
 |테스트1|*강조1*|테스트3|
 |테스트1|**강조2**|테스트3|
