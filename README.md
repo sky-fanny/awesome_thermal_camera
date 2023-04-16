@@ -15,4 +15,4 @@
 |---|---|---|---|
 |ICRA-23|[Edge-guided Multi-domain RGB-to-TIR image Translation for Training Vision Tasks with Challenging Labels](https://arxiv.org/pdf/2301.12689.pdf)|[Github](https://github.com/rpmsnu/sRGB-TIR)|[Youtube](https://www.youtube.com/watch?v=K-uWCB8Y7eo)|
 
-### RGBT Segmentation
+### RGBT Fusion
