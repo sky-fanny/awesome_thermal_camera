@@ -9,6 +9,6 @@
 ### Datasets
 |Publication|Title|Link|
 |---|---|---|
-|테스트1|*강조1*|테스트3|
+|테스트1|*강조1*|https://github.com/risqiutama/ti-slam|
 |테스트1|**강조2**|테스트3|
 |테스트1|<span style="color:red">강조3</span>|테스트3|
