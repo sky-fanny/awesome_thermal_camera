@@ -1,4 +1,4 @@
-# Awesome Thermal Research in Robotics & Computer vision
+# Awesome Thermal Research in Robotics
 
 ### SLAM
 
