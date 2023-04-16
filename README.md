@@ -1,7 +1,9 @@
-# Awesome_thermal-infrared_SLAM
+# Awesome Thermal
 
 ### SLAM
 
 ### Domain Adaptation
+
+### RGBT Segmentation
 
 ### Datasets
