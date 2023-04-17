@@ -5,6 +5,7 @@
 |:---:|---|:---:|:---:|
 |-|[Thermal SuperPoint SLAM](https://github.com/specarmi/Thermal_SuperPoint_SLAM/blob/master/ROB_530_Final_Report_Thermal_SuperPoint_SLAM.pdf)|[Github](https://github.com/specarmi/Thermal_SuperPoint_SLAM)|[Youtube](https://www.youtube.com/watch?v=TwUVYOlQn44)|
 |TRO-21|[Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks](https://arxiv.org/abs/2104.07196)|[Github](https://github.com/risqiutama/ti-slam)|[Youtube](https://www.youtube.com/watch?v=EZ1gpetEN8c)|
+|Master Thesis|[ROVTIO: RObust Visual Thermal Inertial Odometry](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2828783)|[Github](https://github.com/ntnu-arl/rovtio)|[Datasets](https://drive.google.com/drive/folders/1FExxmw5FVcu1FAYibpvGxqSUa2cIfCmh)|
 
 ### Datasets for Thermal Research
 |Publication|Title|Sites|Reference|
