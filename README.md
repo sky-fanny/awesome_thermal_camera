@@ -20,6 +20,7 @@
 |Publication|Title|Code|Reference|
 |:---:|---|:---:|:---:|
 |ECCV-20|[Task-Conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery](https://www.researchgate.net/publication/347272784_Task-Conditioned_Domain_Adaptation_for_Pedestrian_Detection_in_Thermal_Imagery)|[Github](https://github.com/mrkieumy/task-conditioned)|[Youtube](https://www.youtube.com/watch?v=n_jD-FpDsaI)|
+|ICRA-20|[Multispectral Domain Invariant Image for Retrieval-based Place Recognition](https://ieeexplore.ieee.org/abstract/document/9197514)|[Github](https://github.com/sejong-rcv/MDII)|[Slides](https://www.slideshare.net/SejongRCV/multispectral-domain-invariant-image-for-retrievalbased-place-recognition-234803884)|
 |CVPR-21|[Self-Training Guided Adversarial Domain Adaptation for Thermal Imagery](https://openaccess.thecvf.com/content/CVPR2021W/PBVS/html/Akkaya_Self-Training_Guided_Adversarial_Domain_Adaptation_for_Thermal_Imagery_CVPRW_2021_paper.html)|[Github](https://github.com/avaapm/SGADA)|-|
 
 ### Thermal-RGB Domain Translation
