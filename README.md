@@ -18,6 +18,7 @@
 |Publication|Title|Code|Reference|
 |:---:|---|:---:|:---:|
 |ICRA-23|[Edge-guided Multi-domain RGB-to-TIR image Translation for Training Vision Tasks with Challenging Labels](https://arxiv.org/pdf/2301.12689.pdf)|[Github](https://github.com/rpmsnu/sRGB-TIR)|[Youtube](https://www.youtube.com/watch?v=K-uWCB8Y7eo)|
+|ECCV-20|[Task-Conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery](https://www.researchgate.net/publication/347272784_Task-Conditioned_Domain_Adaptation_for_Pedestrian_Detection_in_Thermal_Imagery)|[Github](https://github.com/mrkieumy/task-conditioned)|[Youtube](https://www.youtube.com/watch?v=n_jD-FpDsaI)|
 
 ### RGBT Fusion
 |Publication|Title|Code|Reference|
