@@ -11,6 +11,7 @@
 |:---:|---|:---:|:---:|
 |IROS-22|[STheReO: Stereo Thermal Dataset for Research in Odometry and Mapping](https://ieeexplore.ieee.org/document/9981857)|[Sites](https://sites.google.com/view/rpmsthereo/)|[Youtube](https://www.youtube.com/watch?v=U81_vpHymAA)|
 |RAL-22|[ViViD++: Vision for Visibility Dataset](https://arxiv.org/abs/2204.06183)|[Sites](https://visibilitydataset.github.io/)|-|
+|ICRA-22|[M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots](https://arxiv.org/abs/2112.13659)|[Sites](https://github.com/SJTU-ViSYS/M2DGR)|[Youtube](https://www.youtube.com/watch?v=73enWUwxJ1k)|
 
 ### Domain Adaptation
 |Publication|Title|Code|Reference|
