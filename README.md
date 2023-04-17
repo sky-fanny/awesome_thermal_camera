@@ -42,4 +42,6 @@
 
 ### Thermal Object Detection
 
+### Thermal Semantic Segmentation
+
 ### ETC
