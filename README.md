@@ -4,6 +4,7 @@
 |Publication|Title|Code|Reference|
 |---|---|---|---|
 |TRO-21|[Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks](https://arxiv.org/abs/2104.07196)|[Github](https://github.com/risqiutama/ti-slam)|[Youtube](https://www.youtube.com/watch?v=EZ1gpetEN8c)|
+|---|[Thermal SuperPoint SLAM](https://github.com/specarmi/Thermal_SuperPoint_SLAM/blob/master/ROB_530_Final_Report_Thermal_SuperPoint_SLAM.pdf)|[Github](https://github.com/specarmi/Thermal_SuperPoint_SLAM)|[Youtube](https://www.youtube.com/watch?v=TwUVYOlQn44)|
 
 ### Datasets
 |Publication|Title|Sites|Reference|
