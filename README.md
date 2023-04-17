@@ -32,6 +32,9 @@
 |ICRA-23|[Edge-guided Multi-domain RGB-to-TIR image Translation for Training Vision Tasks with Challenging Labels](https://arxiv.org/pdf/2301.12689.pdf)|[Github](https://github.com/rpmsnu/sRGB-TIR)|[Youtube](https://www.youtube.com/watch?v=K-uWCB8Y7eo)|
 
 ### RGBT Tracking
+|Publication|Title|Code|Reference|
+|:---:|---|:---:|:---:|
+|ICCV-19|[Multi-Adapter RGBT Tracking](https://openaccess.thecvf.com/content_ICCVW_2019/html/VOT/Li_Multi-Adapter_RGBT_Tracking_ICCVW_2019_paper.html)|[Github](https://github.com/Alexadlu/MANet)|-|
 
 ### Thermal-RGB Image Fusion
 |Publication|Title|Code|Reference|
