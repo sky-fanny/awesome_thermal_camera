@@ -46,5 +46,6 @@
 ### Thermal Semantic Segmentation
 
 ### ETC
-* [FLIR Image Extractor](https://github.com/Nervengift/read_thermal.py)
 * [Thermalvis](https://github.com/steevo87/thermalvis.git)
+* [FLIR Image Extractor](https://github.com/Nervengift/read_thermal.py)
+* [FLIR ROS Driver](https://github.com/ros-drivers/flir_camera_driver.git)
