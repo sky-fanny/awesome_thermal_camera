@@ -2,18 +2,19 @@
 
 ### SLAM
 |Publication|Title|Code|Reference|
-|:---:|---|---|---|
+|:---:|---|:---:|:---:|
 |TRO-21|[Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks](https://arxiv.org/abs/2104.07196)|[Github](https://github.com/risqiutama/ti-slam)|[Youtube](https://www.youtube.com/watch?v=EZ1gpetEN8c)|
 |-|[Thermal SuperPoint SLAM](https://github.com/specarmi/Thermal_SuperPoint_SLAM/blob/master/ROB_530_Final_Report_Thermal_SuperPoint_SLAM.pdf)|[Github](https://github.com/specarmi/Thermal_SuperPoint_SLAM)|[Youtube](https://www.youtube.com/watch?v=TwUVYOlQn44)|
 
 ### Datasets
 |Publication|Title|Sites|Reference|
-|---|---|---|---|
+|:---:|---|:---:|:---:|
 |IROS-22|[STheReO: Stereo Thermal Dataset for Research in Odometry and Mapping](https://ieeexplore.ieee.org/document/9981857)|[Sites](https://sites.google.com/view/rpmsthereo/)|[Youtube](https://www.youtube.com/watch?v=U81_vpHymAA)|
+|RAL-22|[ViViD++: Vision for Visibility Dataset](https://arxiv.org/abs/2204.06183)|[Sites](https://visibilitydataset.github.io/)|-|
 
 ### Domain Adaptation
 |Publication|Title|Code|Reference|
-|---|---|---|---|
+|:---:|---|:---:|:---:|
 |ICRA-23|[Edge-guided Multi-domain RGB-to-TIR image Translation for Training Vision Tasks with Challenging Labels](https://arxiv.org/pdf/2301.12689.pdf)|[Github](https://github.com/rpmsnu/sRGB-TIR)|[Youtube](https://www.youtube.com/watch?v=K-uWCB8Y7eo)|
 
 ### RGBT Fusion
