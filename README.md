@@ -16,7 +16,7 @@
 |RAL-22|[ViViD++: Vision for Visibility Dataset](https://arxiv.org/abs/2204.06183)|[Sites](https://visibilitydataset.github.io/)|-|
 |ICRA-22|[M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots](https://arxiv.org/abs/2112.13659)|[Sites](https://github.com/SJTU-ViSYS/M2DGR)|[Youtube](https://www.youtube.com/watch?v=73enWUwxJ1k)|
 
-### Thermal Domain Adaptation
+### Domain Adaptation
 |Publication|Title|Code|Reference|
 |:---:|---|:---:|:---:|
 |ECCV-20|[Task-Conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery](https://www.researchgate.net/publication/347272784_Task-Conditioned_Domain_Adaptation_for_Pedestrian_Detection_in_Thermal_Imagery)|[Github](https://github.com/mrkieumy/task-conditioned)|[Youtube](https://www.youtube.com/watch?v=n_jD-FpDsaI)|
