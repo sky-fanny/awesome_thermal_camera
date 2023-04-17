@@ -15,7 +15,7 @@
 |CVPR-15|[Multispectral Pedestrian Detection: Benchmark Dataset and Baselines](https://openaccess.thecvf.com/content_cvpr_2015/papers/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.pdf)|[Sites](https://soonminhwang.github.io/rgbt-ped-detection/)|[Youtube](https://www.youtube.com/watch?v=eTiVg5C9PqM)|
 |TITS-18|[KAIST Multi-Spectral Day/Night Data Set for Autonomous and Assisted Driving: Benchmark Dataset and Baselines](https://ieeexplore.ieee.org/document/8293689)|[Sites](https://sites.google.com/view/multispectral)|[Youtube](https://www.youtube.com/watch?v=RlcxXGp_bgg)|
 
-### Domain Adaptation
+### Domain Adaptation / Translation
 |Publication|Title|Code|Reference|
 |:---:|---|:---:|:---:|
 |ICRA-23|[Edge-guided Multi-domain RGB-to-TIR image Translation for Training Vision Tasks with Challenging Labels](https://arxiv.org/pdf/2301.12689.pdf)|[Github](https://github.com/rpmsnu/sRGB-TIR)|[Youtube](https://www.youtube.com/watch?v=K-uWCB8Y7eo)|
