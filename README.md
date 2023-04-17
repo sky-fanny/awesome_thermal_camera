@@ -7,6 +7,7 @@
 |IROS-20|[TP-TIO: A Robust Thermal-Inertial Odometry with Deep ThermalPoint](https://arxiv.org/abs/2012.03455)|-|[Sites](https://henryzh47.github.io/TP-TIO/)|
 |IROS-21|[Radar Visual Inertial Odometry and Radar Thermal Inertial Odometry: Robust Navigation even in Challenging Visual Conditions](https://ieeexplore.ieee.org/abstract/document/9636799)|[Github](https://github.com/christopherdoer/rrxio)|[Sites](https://christopherdoer.github.io/datasets/irs_rtvi_datasets_iros2021)|
 |TRO-21|[Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks](https://arxiv.org/abs/2104.07196)|[Github](https://github.com/risqiutama/ti-slam)|[Youtube](https://www.youtube.com/watch?v=EZ1gpetEN8c)|
+|JFR-22|[EIL‐SLAM: Depth‐enhanced edge‐based infrared‐LiDAR SLAM](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22040)|-|-|
 |Master Thesis|[ROVTIO: RObust Visual Thermal Inertial Odometry](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2828783)|[Github](https://github.com/ntnu-arl/rovtio)|[Datasets](https://drive.google.com/drive/folders/1FExxmw5FVcu1FAYibpvGxqSUa2cIfCmh)|
 |-|[Thermal SuperPoint SLAM](https://github.com/specarmi/Thermal_SuperPoint_SLAM/blob/master/ROB_530_Final_Report_Thermal_SuperPoint_SLAM.pdf)|[Github](https://github.com/specarmi/Thermal_SuperPoint_SLAM)|[Youtube](https://www.youtube.com/watch?v=TwUVYOlQn44)|
 
