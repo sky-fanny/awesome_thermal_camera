@@ -36,6 +36,7 @@
 |Publication|Title|Code|Reference|
 |:---:|---|:---:|:---:|
 |ICCV-19|[Multi-Adapter RGBT Tracking](https://openaccess.thecvf.com/content_ICCVW_2019/html/VOT/Li_Multi-Adapter_RGBT_Tracking_ICCVW_2019_paper.html)|[Github](https://github.com/Alexadlu/MANet)|-|
+|ICCV-19|[Multi-modal fusion for end-to-end RGB-T tracking](https://arxiv.org/pdf/1908.11714.pdf)|[Github](https://github.com/zhanglichao/end2end_rgbt_tracking)|-|
 
 ### Thermal-RGB Image Fusion
 |Publication|Title|Code|Reference|
