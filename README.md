@@ -46,6 +46,7 @@
 ### Thermal Semantic Segmentation
 |Publication|Title|Code|Reference|
 |:---:|---|:---:|:---:|
+|IROS-16|[MFNet: Towards real-time semantic segmentation for autonomous vehicles with multi-spectral scenes](https://ieeexplore.ieee.org/document/8206396)|[Github](https://github.com/haqishen/MFNet-pytorch)|[Sites](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)|
 |RAL-19|[RTFNet: RGB-Thermal Fusion Network for Semantic Segmentation of Urban Scenes](https://ieeexplore.ieee.org/abstract/document/8666745)|[Github](https://github.com/yuxiangsun/RTFNet)|[Sites](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)|
 
 ### ETC
