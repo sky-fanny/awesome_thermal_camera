@@ -47,3 +47,4 @@
 
 ### ETC
 * [FLIR Image Extractor](https://github.com/Nervengift/read_thermal.py)
+* [Thermalvis](https://github.com/steevo87/thermalvis.git)
