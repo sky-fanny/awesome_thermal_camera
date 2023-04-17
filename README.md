@@ -22,6 +22,8 @@
 |Publication|Title|Code|Reference|
 |:---:|---|:---:|:---:|
 |CVPR-20|[VIFB：A Visible and Infared Image Fusion Benchmark](https://arxiv.org/abs/2002.03322)|[Github](https://github.com/xingchenzhang/VIFB.git)|-|
+|Information Fusion-21|[RFN-Nest: An end-to-end residual fusion network for infrared and visible images
+](https://arxiv.org/abs/2103.04286)|[Github](https://github.com/hli1221/imagefusion-rfn-nest)|-|
 
 
 ### Image Enhancement
