@@ -18,6 +18,12 @@
 |:---:|---|:---:|:---:|
 |ICRA-23|[Edge-guided Multi-domain RGB-to-TIR image Translation for Training Vision Tasks with Challenging Labels](https://arxiv.org/pdf/2301.12689.pdf)|[Github](https://github.com/rpmsnu/sRGB-TIR)|[Youtube](https://www.youtube.com/watch?v=K-uWCB8Y7eo)|
 
+### Image Enhancement
+|Publication|Title|Code|Reference|
+|:---:|---|:---:|:---:|
+|IROS-16|[Thermal Image Enhancement using Convolutional Neural Network](https://ieeexplore.ieee.org/document/7759059)|[Github](https://github.com/ninadakolekar/Thermal-Image-Enhancement)|[Youtube](https://www.youtube.com/watch?v=6hTtcXQaYxI)|
+
+
 ### Object Detection
 
 
