@@ -46,3 +46,4 @@
 ### Thermal Semantic Segmentation
 
 ### ETC
+* [FLIR Image Extractor](https://github.com/Nervengift/read_thermal.py)
