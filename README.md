@@ -30,6 +30,8 @@
 |ECCV-18|[ThermalGAN: Multimodal Color-to-Thermal Image Translation for Person Re-Identification in Multispectral Dataset](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Kniaz_ThermalGAN_Multimodal_Color-to-Thermal_Image_Translation_for_Person_Re-Identification_in_Multispectral_ECCVW_2018_paper.pdf)|[Github](https://github.com/vlkniaz/ThermalGAN)|[Sites](https://mula2018.github.io/)|
 |ICRA-23|[Edge-guided Multi-domain RGB-to-TIR image Translation for Training Vision Tasks with Challenging Labels](https://arxiv.org/pdf/2301.12689.pdf)|[Github](https://github.com/rpmsnu/sRGB-TIR)|[Youtube](https://www.youtube.com/watch?v=K-uWCB8Y7eo)|
 
+### RGBT Tracking
+
 ### Thermal-RGB Image Fusion
 |Publication|Title|Code|Reference|
 |:---:|---|:---:|:---:|
