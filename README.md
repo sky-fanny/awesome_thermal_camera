@@ -3,6 +3,7 @@
 ### SLAM
 |Publication|Title|Code|Reference|
 |:---:|---|:---:|:---:|
+|RAL-19|[Sparse Depth Enhanced Direct Thermal-Infrared SLAM Beyond the Visible Spectrum](https://ieeexplore.ieee.org/abstract/document/8737772)|-|[Youtube](https://www.youtube.com/watch?v=oO7lT3uAzLc)|
 |IROS-20|[TP-TIO: A Robust Thermal-Inertial Odometry with Deep ThermalPoint](https://arxiv.org/abs/2012.03455)|-|[Sites](https://henryzh47.github.io/TP-TIO/)|
 |IROS-21|[Radar Visual Inertial Odometry and Radar Thermal Inertial Odometry: Robust Navigation even in Challenging Visual Conditions](https://ieeexplore.ieee.org/abstract/document/9636799)|[Github](https://github.com/christopherdoer/rrxio)|[Sites](https://christopherdoer.github.io/datasets/irs_rtvi_datasets_iros2021)|
 |TRO-21|[Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks](https://arxiv.org/abs/2104.07196)|[Github](https://github.com/risqiutama/ti-slam)|[Youtube](https://www.youtube.com/watch?v=EZ1gpetEN8c)|
