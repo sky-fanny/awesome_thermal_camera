@@ -4,6 +4,7 @@
 |Publication|Title|Code|Reference|
 |:---:|---|:---:|:---:|
 |IROS-20|[TP-TIO: A Robust Thermal-Inertial Odometry with Deep ThermalPoint](https://arxiv.org/abs/2012.03455)|-|[Sites](https://henryzh47.github.io/TP-TIO/)|
+|IROS-21|[Radar Visual Inertial Odometry and Radar Thermal Inertial Odometry: Robust Navigation even in Challenging Visual Conditions](https://ieeexplore.ieee.org/abstract/document/9636799)|[Github](https://github.com/christopherdoer/rrxio)|[Sites](https://christopherdoer.github.io/datasets/irs_rtvi_datasets_iros2021)|
 |TRO-21|[Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks](https://arxiv.org/abs/2104.07196)|[Github](https://github.com/risqiutama/ti-slam)|[Youtube](https://www.youtube.com/watch?v=EZ1gpetEN8c)|
 |-|[Thermal SuperPoint SLAM](https://github.com/specarmi/Thermal_SuperPoint_SLAM/blob/master/ROB_530_Final_Report_Thermal_SuperPoint_SLAM.pdf)|[Github](https://github.com/specarmi/Thermal_SuperPoint_SLAM)|[Youtube](https://www.youtube.com/watch?v=TwUVYOlQn44)|
 |Master Thesis|[ROVTIO: RObust Visual Thermal Inertial Odometry](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2828783)|[Github](https://github.com/ntnu-arl/rovtio)|[Datasets](https://drive.google.com/drive/folders/1FExxmw5FVcu1FAYibpvGxqSUa2cIfCmh)|
@@ -15,6 +16,7 @@
 |CVPR-15|[Multispectral Pedestrian Detection: Benchmark Dataset and Baselines](https://openaccess.thecvf.com/content_cvpr_2015/papers/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.pdf)|[Sites](https://soonminhwang.github.io/rgbt-ped-detection/)|[Youtube](https://www.youtube.com/watch?v=eTiVg5C9PqM)|
 |TITS-18|[KAIST Multi-Spectral Day/Night Data Set for Autonomous and Assisted Driving: Benchmark Dataset and Baselines](https://ieeexplore.ieee.org/document/8293689)|[Sites](https://sites.google.com/view/multispectral)|[Youtube](https://www.youtube.com/watch?v=RlcxXGp_bgg)|
 |WACV-20|[BIRDSAI: A Dataset for Detection and Tracking in Aerial Thermal Infrared Videos](https://openaccess.thecvf.com/content_WACV_2020/html/Bondi_BIRDSAI_A_Dataset_for_Detection_and_Tracking_in_Aerial_Thermal_WACV_2020_paper.html)|[Sites](https://sites.google.com/view/elizabethbondi/dataset)|[Youtube](https://youtu.be/Lj-FylnEboQ?t=1825)|
+|IROS-21|[Radar Visual Inertial Odometry and Radar Thermal Inertial Odometry: Robust Navigation even in Challenging Visual Conditions](https://ieeexplore.ieee.org/abstract/document/9636799)|[Sites]([https://github.com/christopherdoer/rrxio](https://christopherdoer.github.io/datasets/irs_rtvi_datasets_iros2021))|-|
 |IROS-22|[STheReO: Stereo Thermal Dataset for Research in Odometry and Mapping](https://ieeexplore.ieee.org/document/9981857)|[Sites](https://sites.google.com/view/rpmsthereo/)|[Youtube](https://www.youtube.com/watch?v=U81_vpHymAA)|
 |RAL-22|[ViViD++: Vision for Visibility Dataset](https://arxiv.org/abs/2204.06183)|[Sites](https://visibilitydataset.github.io/)|-|
 |ICRA-22|[M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots](https://arxiv.org/abs/2112.13659)|[Sites](https://github.com/SJTU-ViSYS/M2DGR)|[Youtube](https://www.youtube.com/watch?v=73enWUwxJ1k)|
