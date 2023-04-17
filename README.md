@@ -18,6 +18,12 @@
 |:---:|---|:---:|:---:|
 |ICRA-23|[Edge-guided Multi-domain RGB-to-TIR image Translation for Training Vision Tasks with Challenging Labels](https://arxiv.org/pdf/2301.12689.pdf)|[Github](https://github.com/rpmsnu/sRGB-TIR)|[Youtube](https://www.youtube.com/watch?v=K-uWCB8Y7eo)|
 
+### RGBT Fusion
+|Publication|Title|Code|Reference|
+|:---:|---|:---:|:---:|
+|CVPR-20|[VIFB：A Visible and Infared Image Fusion Benchmark](https://arxiv.org/abs/2002.03322)|[Github](https://github.com/xingchenzhang/VIFB.git)|-|
+
+
 ### Image Enhancement
 |Publication|Title|Code|Reference|
 |:---:|---|:---:|:---:|
@@ -26,8 +32,5 @@
 
 
 ### Object Detection
-
-
-### RGBT Fusion
 
 ### ETC
