@@ -82,3 +82,4 @@
 * [FLIR BOSON USB Driver](https://github.com/FLIR/BosonUSB.git)
 * [FLIR Image Extractor](https://github.com/Nervengift/read_thermal.py)
 * [FLIR Lepton USB Driver](https://github.com/lincolnkinley/lepton_driver_usb.git)
+* [Point Grey ROS Driver](https://github.com/ros-drivers/pointgrey_camera_driver.git)
