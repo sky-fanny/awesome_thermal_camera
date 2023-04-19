@@ -12,6 +12,7 @@
 |TRO-21|[Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks](https://arxiv.org/abs/2104.07196)|[Github](https://github.com/risqiutama/ti-slam)|[Youtube](https://www.youtube.com/watch?v=EZ1gpetEN8c)|
 |CSNC-21|[DVT-SLAM: Deep-Learning Based Visible and Thermal Fusion SLAM](https://link.springer.com/chapter/10.1007/978-981-16-3142-9_37)|-|-|
 |JFR-22|[EIL‐SLAM: Depth‐enhanced edge‐based infrared‐LiDAR SLAM](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22040)|-|-|
+|IROS-22|[MIMOSA: A Multi-Modal SLAM Framework for Resilient Autonomy against Sensor Degradation](https://ieeexplore.ieee.org/abstract/document/9981108)|-|[Youtube](https://www.youtube.com/watch?v=S91GzCWBt2I)|
 |RAL-22|[Thermal-Inertial SLAM for the Environments With Challenging Illumination](https://ieeexplore.ieee.org/abstract/document/9804793)|-|-|
 |RAL-23|[Edge-Based Monocular Thermal-Inertial Odometry in Visually Degraded Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10048516)|-|[Youtube](https://www.youtube.com/watch?v=BIh4yDCDNeU)|
 |Master Thesis|[ROVTIO: RObust Visual Thermal Inertial Odometry](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2828783)|[Github](https://github.com/ntnu-arl/rovtio)|[Datasets](https://drive.google.com/drive/folders/1FExxmw5FVcu1FAYibpvGxqSUa2cIfCmh)|
