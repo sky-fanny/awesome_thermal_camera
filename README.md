@@ -1,6 +1,6 @@
 ## Awesome Thermal Research in Robotics & Computer Vision
 
-### SLAM
+### Visual Odometry & SLAM
 |Publication|Title|Code|Reference|
 |:---:|---|:---:|:---:|
 |RAL-19|[Sparse Depth Enhanced Direct Thermal-Infrared SLAM Beyond the Visible Spectrum](https://ieeexplore.ieee.org/abstract/document/8737772)|-|[Youtube](https://www.youtube.com/watch?v=oO7lT3uAzLc)|
