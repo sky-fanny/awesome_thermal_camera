@@ -3,7 +3,7 @@
 ### Visual Odometry & SLAM
 |Publication|Title|Code|Reference|
 |:---:|---|:---:|:---:|
-|ICRA-17|[RGB-T SLAM: A flexible SLAM framework by combining appearance and thermal information](https://ieeexplore.ieee.org/abstract/document/7989668|-|-|
+|ICRA-17|[RGB-T SLAM: A flexible SLAM framework by combining appearance and thermal information](https://ieeexplore.ieee.org/abstract/document/7989668)|-|-|
 |RAL-19|[Sparse Depth Enhanced Direct Thermal-Infrared SLAM Beyond the Visible Spectrum](https://ieeexplore.ieee.org/abstract/document/8737772)|-|[Youtube](https://www.youtube.com/watch?v=oO7lT3uAzLc)|
 |RAL-20|[DeepTIO: A Deep Thermal-Inertial Odometry With Visual Hallucination](https://ieeexplore.ieee.org/abstract/document/8968430)|-|[Youtube](https://www.youtube.com/watch?v=Uw81ERThI-U)|
 |IROS-20|[TP-TIO: A Robust Thermal-Inertial Odometry with Deep ThermalPoint](https://arxiv.org/abs/2012.03455)|-|[Sites](https://henryzh47.github.io/TP-TIO/)|
