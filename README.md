@@ -24,6 +24,7 @@
 |-|FLIR ADAS Datasets|[Sites](https://www.flir.com/oem/adas/adas-dataset-form/)|-|
 |CVPR-15|[Multispectral Pedestrian Detection: Benchmark Dataset and Baselines](https://openaccess.thecvf.com/content_cvpr_2015/papers/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.pdf)|[Sites](https://soonminhwang.github.io/rgbt-ped-detection/)|[Youtube](https://www.youtube.com/watch?v=eTiVg5C9PqM)|
 |TITS-18|[KAIST Multi-Spectral Day/Night Data Set for Autonomous and Assisted Driving: Benchmark Dataset and Baselines](https://ieeexplore.ieee.org/document/8293689)|[Sites](https://sites.google.com/view/multispectral)|[Youtube](https://www.youtube.com/watch?v=RlcxXGp_bgg)|
+|IROS-20|[HeatNet: Bridging the Day-Night Domain Gap in Semantic Segmentation with Thermal Images](https://ieeexplore.ieee.org/abstract/document/9341192)|[Sites](https://github.com/JohanVer/heatnet.git)|-|
 |ICRA-20|[PST900: RGB-Thermal Calibration, Dataset and Segmentation Network](https://ieeexplore.ieee.org/abstract/document/9196831)|[Sites](https://github.com/ShreyasSkandanS/pst900_thermal_rgb)|[Youtube](https://www.youtube.com/watch?v=8nZ-uYN7BG0)|
 |WACV-20|[BIRDSAI: A Dataset for Detection and Tracking in Aerial Thermal Infrared Videos](https://openaccess.thecvf.com/content_WACV_2020/html/Bondi_BIRDSAI_A_Dataset_for_Detection_and_Tracking_in_Aerial_Thermal_WACV_2020_paper.html)|[Sites](https://sites.google.com/view/elizabethbondi/dataset)|[Youtube](https://youtu.be/Lj-FylnEboQ?t=1825)|
 |IROS-21|[Radar Visual Inertial Odometry and Radar Thermal Inertial Odometry: Robust Navigation even in Challenging Visual Conditions](https://ieeexplore.ieee.org/abstract/document/9636799)|[Sites]([https://github.com/christopherdoer/rrxio](https://christopherdoer.github.io/datasets/irs_rtvi_datasets_iros2021))|-|
@@ -36,6 +37,7 @@
 |:---:|---|:---:|:---:|
 |ECCV-20|[Task-Conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery](https://www.researchgate.net/publication/347272784_Task-Conditioned_Domain_Adaptation_for_Pedestrian_Detection_in_Thermal_Imagery)|[Github](https://github.com/mrkieumy/task-conditioned)|[Youtube](https://www.youtube.com/watch?v=n_jD-FpDsaI)|
 |ICRA-20|[Multispectral Domain Invariant Image for Retrieval-based Place Recognition](https://ieeexplore.ieee.org/abstract/document/9197514)|[Github](https://github.com/sejong-rcv/MDII)|[Slides](https://www.slideshare.net/SejongRCV/multispectral-domain-invariant-image-for-retrievalbased-place-recognition-234803884)|
+|IROS-20|[HeatNet: Bridging the Day-Night Domain Gap in Semantic Segmentation with Thermal Images](https://ieeexplore.ieee.org/abstract/document/9341192)|[Github](https://github.com/JohanVer/heatnet.git)|-|
 |CVPR-21|[Self-Training Guided Adversarial Domain Adaptation for Thermal Imagery](https://openaccess.thecvf.com/content/CVPR2021W/PBVS/html/Akkaya_Self-Training_Guided_Adversarial_Domain_Adaptation_for_Thermal_Imagery_CVPRW_2021_paper.html)|[Github](https://github.com/avaapm/SGADA)|-|
 
 ### Thermal-RGB Domain Translation
@@ -68,6 +70,7 @@
 |IROS-16|[MFNet: Towards real-time semantic segmentation for autonomous vehicles with multi-spectral scenes](https://ieeexplore.ieee.org/document/8206396)|[Github](https://github.com/haqishen/MFNet-pytorch)|[Sites](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)|
 |RAL-19|[RTFNet: RGB-Thermal Fusion Network for Semantic Segmentation of Urban Scenes](https://ieeexplore.ieee.org/abstract/document/8666745)|[Github](https://github.com/yuxiangsun/RTFNet)|[Sites](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)|
 |ICRA-20|[PST900: RGB-Thermal Calibration, Dataset and Segmentation Network](https://ieeexplore.ieee.org/abstract/document/9196831)|[Github](https://github.com/ShreyasSkandanS/pst900_thermal_rgb)|[Youtube](https://www.youtube.com/watch?v=8nZ-uYN7BG0)|
+|IROS-20|[HeatNet: Bridging the Day-Night Domain Gap in Semantic Segmentation with Thermal Images](https://ieeexplore.ieee.org/abstract/document/9341192)|[Github](https://github.com/JohanVer/heatnet.git)|-|
 
 ### Thermal Object Detection
 * [Darknet](https://github.com/enesozi/object-detection)
